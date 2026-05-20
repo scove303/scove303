@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tran Nguyen Phuong - Scove 👋
 
-<!--
-**Scove-Metalreal/Scove-Metalreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer Intern focused on Java web development and database systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- JSP / Servlet
+- Spring MVC
+- MySQL
+- HTML / CSS / JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Charity Donation Website
+Java web application for managing donation campaigns and users.
+
+### Travel Tour Booking Website
+Tour booking and management system using Java MVC architecture.
+
+### Shoe Store E-commerce Website
+Online shopping platform with product and order management.
+
+### Job Search Website
+Recruitment platform connecting recruiters and job seekers.
+
+## GitHub Stats
+(put github stats here later)
+
+## Contact
+- Email: yourmail@gmail.com
+- GitHub: github.com/Scove-Metalreal
