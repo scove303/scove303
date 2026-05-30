@@ -69,7 +69,7 @@ A personal game development project created in Unity, focused on gameplay progra
 
 ## 🌐 Links
 
-- LinkedIn: https://www.linkedin.com/in/scove-metalreal-14a6832a6/
+- LinkedIn: https://www.linkedin.com/in/scove303/
 - YouTube: https://www.youtube.com/@Scovy303
 - Facebook: https://www.facebook.com/scovior/
 - Twitter/X: https://x.com/Scovy303
@@ -79,7 +79,7 @@ A personal game development project created in Unity, focused on gameplay progra
 ## 📫 Contact
 
 - Email: trannguyenp303@gmail.com
-- GitHub: https://github.com/Scove-Metalreal
+- GitHub: https://github.com/scove303
 
 ---
 
